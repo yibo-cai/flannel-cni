@@ -2,7 +2,7 @@
 set -e
 CURL="curl -sSf"
 IMAGE_NAME=linaro/flannel-cni-arm64
-VERSION=v0.2.0
+VERSION=v0.3.0
 CNI_VERSION="v0.6.0"
 
 mkdir -p dist
